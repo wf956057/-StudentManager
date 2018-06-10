@@ -1,5 +1,10 @@
 package com.student.bean;
 
+/**
+ * student のBean　class
+ * @author Administrator
+ *
+ */
 public class Student {
 
 	private Integer id;//学生id　１
